@@ -1,0 +1,90 @@
+\documentclass[margin]{res}
+
+% Default font is the helvetica postscript font
+\usepackage{url}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage[hidelinks]{hyperref}
+
+% Increase text height
+\textheight=700pt
+
+\begin{document}
+
+\name{Prabhat Devkota}
+
+\address{700 Health Sciences Drive\\Chapin-B-1015C\\11790 Stony Brook, New York, US}
+\address{prabhat.devkota@stonybrook.edu}
+
+\begin{resume}
+
+  \section{EDUCATION}
+  \textbf{Stony Brook University}, Stony Brook, New York, US\\
+  {\sl PhD Candidate in Mathematics}, August 2020 -- (in progress)\\
+  Advisor: Prof. Samuel Grushevsky\\
+
+  \textbf{Stony Brook University}, Stony Brook, New York, US\\
+  {\sl MA in mathematics}, August 2020 -- December 2021\\
+  
+\textbf{Jacobs University Bremen}, Bremen, Germany\\
+{\sl Bachelor of Science}, Mathematics major and Physics minor, August 2017 -- June 2020
+\\
+\section{RESEARCH INTERESTS}
+Algebraic Geometry, Moduli of curves and abelian differentials
+\\
+
+\section{PUBLICATIONS}
+\begin{itemize}
+\item \textbf{Cohomology of Moduli Space of Multiscale Differentials in Genus 0.}\\arXiv preprint: \url{https://arxiv.org/pdf/2410.21431}, Oct 2024
+\item \textbf{Multiscale Differentials and Wonderful Models.}\\joint with A. Robotis and A. Zahariuc; arXiv preprint: \url{https://arxiv.org/pdf/2504.11534}, Apr 2025
+  \end{itemize}
+
+\section{EXPERIENCE}
+\par
+\textbf{Course Instructor}\\
+Course instructor for Calculus C in Summer 2021 and Precalculus in Summer 2022, 2023 and 2024.
+\par
+\textbf{Teaching Assistant (TA)}\\
+TA for Analysis I (Fall 2018), Analysis II (Spring 2019) and Calculus on Manifolds (Fall 2019) at Jacobs University Bremen\\
+TA  for Calculus B (Fall 2020), Calculus A (Fall 2021), Calculus I (Spring 2022), Multivariable Calculus and Linear Algebra (Fall 2022), Calculus IV with applications (Spring 2023) and Overview of Calculus (Fall 2024) at Stony Brook University.
+\par
+\textbf{Grader}\\
+Grader for Logic, Language and Proof, and Calculus C (Fall 2023) and Introduction to Advanced Mathematics (Fall 2024) at Stony Brook university.
+
+
+\section{ACTIVITIES}
+\par
+\textbf{2025 Summer Research Institute in Algebraic Geometry:} Participated in the first two weeks (July 14 to July 25) of the 2025 Summer Research Institute in Algebraic Geometry at Colorado State University in Fort Collins, Colorado. The details can be found on \url{https://sites.google.com/view/2025summerinstitute/home}.
+\par
+\textbf{Online Graduate Student Bootcamp for the 2025 Algebraic Geometry Summer Research Institute:} Participated in the online graduate student bootcamp preceding the 2025 Algebraic Geometry Summer Research Institute, mentored by Prof. Dawei Chen, in topic ``Moduli of differentials''. Also gave a short talk (~25 minutes) in one of the sessions
+\par
+\textbf{Algebraic Geometry Northeastern Series (AGNES):} Participated in the Algebraic Geometry Northeastern Series (AGNES) in Fall 2022, Spring 2023, Spring 2024 and Fall 2024. Also presented a poster in the Fall 2024 one.
+\par
+\textbf{2nd Simons Math Summer Workshop -- Moduli:} Participated in the second Simons Math Summer Workshop on Moduli (July 1 to July 19). The details can be found on  \url{https://scgp.stonybrook.edu/archives/41260}.
+\par
+\textbf{Differential Geometry Summer School:} Participated in Differential Geometry Summer School organized by University of Lisbon in July 2018. The details can be found on  \url{https://www.math.tecnico.ulisboa.pt/~ggranja/Talentos/school2018/program.html}
+\par
+\textbf{Park City Mathematics Institute:} Participated in the Park City Mathematics Institute 2019 (July 1 to July 20). The main topic of the program was ``Quantum Field Theory and Manifold Invariants''. For undergraduates, there were two lecture series: one on ``Gauge Theory, Gravitation and Geometry'' and the other on ``Low Dimensional Topology''.
+\par
+\textbf{International Physics Olympiad:} One of the five participants from Nepal on International Physics Olympiad 2015 (in India) and 2016 (in Switzerland and Lichtenstein).
+
+\section{AWARDS}
+\textbf{Sparkasse Bremen Scholarship:} Received Sparkasse Bremen Scholarship amounting to 3600 euros for the academic year 2019/2020. Awarded to the top student in the previous academic year.
+
+\section{SKILLS}
+\textbf{Languages}: Nepali (Mother tongue), English (Primary Language), Hindi (Fluent), German (basic)\\
+\textbf{Programming Languages}: Python, Isabelle/HOL (proof-assistant).
+\\
+\textbf{Applications}: Emacs, Git, LibreOffice, Mathematica, \LaTeX.
+\\
+\textbf{Operating Systems}: 
+Linux, Windows, Android.
+
+\section{MISC}
+\par
+\textbf{AP Outcomes to University Metrics:} Together with S. Hazra, J.T. Li, S.J. McElhenney and R. Tana, we investigated the relationship between the performance of students in AP examinations and proximity to the universities -- github repository: \url{https://github.com/mcelhens/AP-Outcomes-to-University-Metrics}. This project was a part of the Erd\"os institute Data Science Bootcamp in Fall 2024, and was selected as a top five project in the bootcamp.
+\par
+\textbf{Hilbert Meets Isabelle}\\ 
+Formalizing Matiyasevich's proof of Hilbert's 10th problem on Isabelle/HOL, supervised by Prof. Dierk Schleicher and Prof. Yuri Matiyasevich, 2017-2018. Publication: \url{https://easychair.org/publications/preprint/GhvC}
+\end{resume}
+\end{document}
